@@ -1,0 +1,26 @@
+# Compiled executables and objects
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build directories
+build/
+debug/
+release/
+CMakeFiles/
+CMakeCache.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
